@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {VirtualEvent} se encarga de realizar tareas específicas.
+ * @fileoverview    {VirtualEvent}
  *
  * @version         2.0
  *

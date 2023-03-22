@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {JavaGenericImage} se encarga de realizar tareas específicas.
+ * @fileoverview    {JavaGenericImage}
  *
  * @version         2.0
  *

@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {ButtonActionSetterFrame} se encarga de realizar tareas específicas.
+ * @fileoverview    {ButtonActionSetterFrame}
  *
  * @version         2.0
  *

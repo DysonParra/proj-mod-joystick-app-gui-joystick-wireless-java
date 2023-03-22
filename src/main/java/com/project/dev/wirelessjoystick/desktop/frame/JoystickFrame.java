@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {JoystickFrame} se encarga de realizar tareas específicas.
+ * @fileoverview    {JoystickFrame}
  *
  * @version         2.0
  *

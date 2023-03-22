@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {JavaGenericImageFactory} se encarga de realizar tareas específicas.
+ * @fileoverview    {JavaGenericImageFactory}
  *
  * @version         2.0
  *

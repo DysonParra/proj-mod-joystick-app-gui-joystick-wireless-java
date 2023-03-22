@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {JavaJoystickViewSetter} se encarga de realizar tareas específicas.
+ * @fileoverview    {JavaJoystickViewSetter}
  *
  * @version         2.0
  *
