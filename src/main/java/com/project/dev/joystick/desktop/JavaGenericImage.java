@@ -19,7 +19,7 @@ import java.awt.Image;
 import javax.swing.ImageIcon;
 
 /**
- * TODO: Definición de {@code JavaGenericImage}.
+ * TODO: Description of {@code JavaGenericImage}.
  *
  * @author Dyson Parra
  * @since 11
@@ -29,7 +29,7 @@ public class JavaGenericImage extends GenericImage {
     protected ImageIcon imageIcon = null;                                                 // Imagen cualquiera.
 
     /**
-     * TODO: Definición de {@code JavaGenericImage}.
+     * TODO: Description of {@code JavaGenericImage}.
      *
      * @param path es la ruta de la imagen.
      * @throws java.lang.Exception
@@ -40,7 +40,7 @@ public class JavaGenericImage extends GenericImage {
     }
 
     /**
-     * FIXME: Definición de {@code updateGraphic}. Actualiza los datos de la implementación de
+     * FIXME: Description of {@code updateGraphic}. Actualiza los datos de la implementación de
      * imagen genérica en java.
      */
     private void updateGraphic() {
@@ -48,7 +48,7 @@ public class JavaGenericImage extends GenericImage {
     }
 
     /**
-     * FIXME: Definición de {@code pathChanged}. Invocado cuando cambia la ruta de la implementación
+     * FIXME: Description of {@code pathChanged}. Invocado cuando cambia la ruta de la implementación
      * de imagen genérica en java.
      *
      * @throws Exception
@@ -65,7 +65,7 @@ public class JavaGenericImage extends GenericImage {
     }
 
     /**
-     * FIXME: Definición de {@code onPathChange}. Invocado cuando se cambia la ruta de la imagen
+     * FIXME: Description of {@code onPathChange}. Invocado cuando se cambia la ruta de la imagen
      * genérica.
      *
      * @throws Exception
@@ -76,7 +76,7 @@ public class JavaGenericImage extends GenericImage {
     }
 
     /**
-     * FIXME: Definición de {@code onWidthChange}. Invocado cuando se cambia el ancho de la imagen
+     * FIXME: Description of {@code onWidthChange}. Invocado cuando se cambia el ancho de la imagen
      * genérica.
      */
     @Override
@@ -85,7 +85,7 @@ public class JavaGenericImage extends GenericImage {
     }
 
     /**
-     * FIXME: Definición de {@code onHeightChange}. Invocado cuando se cambia el alto de la imagen
+     * FIXME: Description of {@code onHeightChange}. Invocado cuando se cambia el alto de la imagen
      * genérica.
      */
     @Override
@@ -94,7 +94,7 @@ public class JavaGenericImage extends GenericImage {
     }
 
     /**
-     * FIXME: Definición de {@code onPositionXChange}. Invocado cuando se cambian las coordenadas en
+     * FIXME: Description of {@code onPositionXChange}. Invocado cuando se cambian las coordenadas en
      * X de la imagen genérica.
      */
     @Override
@@ -103,7 +103,7 @@ public class JavaGenericImage extends GenericImage {
     }
 
     /**
-     * FIXME: Definición de {@code onPositionYChange}. Invocado cuando se cambian las coordenadas en
+     * FIXME: Description of {@code onPositionYChange}. Invocado cuando se cambian las coordenadas en
      * Y de la imagen genérica.
      */
     @Override

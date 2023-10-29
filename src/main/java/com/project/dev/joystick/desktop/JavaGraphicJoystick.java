@@ -30,7 +30,7 @@ import javax.swing.JLabel;
 import javax.swing.JLayeredPane;
 
 /**
- * TODO: Definición de {@code JavaGraphicJoystick}.
+ * TODO: Description of {@code JavaGraphicJoystick}.
  *
  * @author Dyson Parra
  * @since 11
@@ -50,7 +50,7 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
     private JLabel buttonComponet;                                              // Cada botón que irá como componente de la vista.
 
     /**
-     * TODO: Definición de {@code JavaGraphicJoystick}.
+     * TODO: Description of {@code JavaGraphicJoystick}.
      *
      * @param genericJoystick es el joystick que tendrá el JLayeredPane.
      */
@@ -111,7 +111,7 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
     }
 
     /**
-     * FIXME: Definición de {@code getJoystick}. Obtiene el joystick del joystick gráfico.
+     * FIXME: Description of {@code getJoystick}. Obtiene el joystick del joystick gráfico.
      *
      * @return es el joystick del gráfico.
      */
@@ -121,7 +121,7 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
     }
 
     /**
-     * FIXME: Definición de {@code getJoystickWidth}. Obtiene ancho del joystick asociado al
+     * FIXME: Description of {@code getJoystickWidth}. Obtiene ancho del joystick asociado al
      * joystick gráfico.
      *
      * @return el ancho del joystick gráfico.
@@ -132,7 +132,7 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
     }
 
     /**
-     * FIXME: Definición de {@code getJoystickHeight}. Obtiene el alto del joystick asociado al
+     * FIXME: Description of {@code getJoystickHeight}. Obtiene el alto del joystick asociado al
      * joystick gráfico.
      *
      * @return el alto del joystick gráfico.
@@ -143,7 +143,7 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
     }
 
     /**
-     * FIXME: Definición de {@code onJoystickScale}. Invocado cuando el joystick escala sus
+     * FIXME: Description of {@code onJoystickScale}. Invocado cuando el joystick escala sus
      * dimensiones.
      */
     @Override
@@ -156,7 +156,7 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
     }
 
     /**
-     * FIXME: Definición de {@code scaleJoystick}. Cambia la resolución de las imágenes de los
+     * FIXME: Description of {@code scaleJoystick}. Cambia la resolución de las imágenes de los
      * botones y el joystick.
      *
      * @param percent es el porcentaje de escalado del joystick.
@@ -168,7 +168,7 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
     }
 
     /**
-     * FIXME: Definición de {@code scaleJoystickWidth}. Cambia la resolución de las imágenes de los
+     * FIXME: Description of {@code scaleJoystickWidth}. Cambia la resolución de las imágenes de los
      * botones y el joystick.
      *
      * @param newWidth es el nuevo ancho del joystick.
@@ -181,7 +181,7 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
     }
 
     /**
-     * FIXME: Definición de {@code scaleJoystickHeight}. Cambia la resolución de las imágenes de los
+     * FIXME: Description of {@code scaleJoystickHeight}. Cambia la resolución de las imágenes de los
      * botones y el joystick.
      *
      * @param newHeight es el nuevo alto del joystick.
@@ -194,7 +194,7 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
     }
 
     /**
-     * FIXME: Definición de {@code addButtonKeyEvents}. Asocia teclas del teclado con los botones
+     * FIXME: Description of {@code addButtonKeyEvents}. Asocia teclas del teclado con los botones
      * del joystick.
      *
      * @throws java.lang.Exception
@@ -208,7 +208,7 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
     }
 
     /**
-     * FIXME: Definición de {@code keyTyped}. Evalúa la tecla acabada de tocar.
+     * FIXME: Description of {@code keyTyped}. Evalúa la tecla acabada de tocar.
      *
      * @param ke es la tecla tocada.
      */
@@ -218,7 +218,7 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
     }
 
     /**
-     * FIXME: Definición de {@code keyPressed}. Evalúa la tecla mientras esté oprimida.
+     * FIXME: Description of {@code keyPressed}. Evalúa la tecla mientras esté oprimida.
      *
      * @param ke es la tecla oprimida.
      */
@@ -232,7 +232,7 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
     }
 
     /**
-     * FIXME: Definición de {@code keyReleased}. Evalúa la tecla soltada.
+     * FIXME: Description of {@code keyReleased}. Evalúa la tecla soltada.
      *
      * @param ke es la tecla soltada.
      */
@@ -246,7 +246,7 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
     }
 
     /**
-     * TODO: Definición de {@code actionPerformed}.
+     * TODO: Description of {@code actionPerformed}.
      *
      * @param ae
      */

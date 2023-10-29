@@ -29,7 +29,7 @@ import static com.project.dev.wirelessjoystick.desktop.frame.JoystickFrame.JOYST
 import static com.project.dev.wirelessjoystick.desktop.frame.JoystickFrame.JOYSTICK_FORM_NORMAL;
 
 /**
- * TODO: Definición de {@code WirelessJoystickFrame}.
+ * TODO: Description of {@code WirelessJoystickFrame}.
  *
  * @author Dyson Parra
  * @since 11
@@ -73,7 +73,7 @@ public class WirelessJoystickFrame extends JFrame {
     };
 
     /**
-     * TODO: Definición de {@code WirelessJoystickFrame}.
+     * TODO: Description of {@code WirelessJoystickFrame}.
      *
      */
     public WirelessJoystickFrame() {
@@ -200,7 +200,7 @@ public class WirelessJoystickFrame extends JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     /**
-     * TODO: Definición de {@code btnCreateConnectActionPerformed}.
+     * TODO: Description of {@code btnCreateConnectActionPerformed}.
      *
      * @param evt
      */
@@ -262,7 +262,7 @@ public class WirelessJoystickFrame extends JFrame {
     }//GEN-LAST:event_btnCreateConnectActionPerformed
 
     /**
-     * TODO: Definición de {@code spnJoystickNameActionPerformed}.
+     * TODO: Description of {@code spnJoystickNameActionPerformed}.
      *
      * @param evt
      */
@@ -271,7 +271,7 @@ public class WirelessJoystickFrame extends JFrame {
     }//GEN-LAST:event_spnJoystickNameActionPerformed
 
     /**
-     * TODO: Definición de {@code spnJoystickTypeActionPerformed}.
+     * TODO: Description of {@code spnJoystickTypeActionPerformed}.
      *
      * @param evt
      */
@@ -313,7 +313,7 @@ public class WirelessJoystickFrame extends JFrame {
     }//GEN-LAST:event_spnJoystickTypeActionPerformed
 
     /**
-     * FIXME: Definición de {@code startJoystickFrame}. Inicia el frame con el joystick.
+     * FIXME: Description of {@code startJoystickFrame}. Inicia el frame con el joystick.
      *
      * @param joystickType es el tipo de joystick que se creará (Local, cliente o servidor).
      * @param joystickName es el nombre del joystick que se creará.

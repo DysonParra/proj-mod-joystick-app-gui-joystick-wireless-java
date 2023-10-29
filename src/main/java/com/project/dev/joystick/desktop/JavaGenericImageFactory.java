@@ -18,7 +18,7 @@ import com.project.dev.joystick.factory.GenericImageAbstractFactory;
 import com.project.dev.joystick.graphic.GenericImage;
 
 /**
- * TODO: Definición de {@code JavaGenericImageFactory}.
+ * TODO: Description of {@code JavaGenericImageFactory}.
  *
  * @author Dyson Parra
  * @since 11
@@ -26,7 +26,7 @@ import com.project.dev.joystick.graphic.GenericImage;
 public class JavaGenericImageFactory extends GenericImageAbstractFactory {
 
     /**
-     * FIXME: Definición de {@code JavaGenericImageFactory}.
+     * FIXME: Description of {@code JavaGenericImageFactory}.
      *
      */
     public JavaGenericImageFactory() {
@@ -34,7 +34,7 @@ public class JavaGenericImageFactory extends GenericImageAbstractFactory {
     }
 
     /**
-     * FIXME: Definición de {@code makeGenericImage}. Fabrica una imagen genérica con solo la ruta.
+     * FIXME: Description of {@code makeGenericImage}. Fabrica una imagen genérica con solo la ruta.
      *
      * @param path es la ruta de la imagen.
      * @return una imagen genérica.

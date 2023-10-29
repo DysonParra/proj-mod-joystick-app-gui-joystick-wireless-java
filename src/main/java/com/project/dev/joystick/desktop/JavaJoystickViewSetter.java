@@ -29,7 +29,7 @@ import static com.project.dev.joystick.name.generic.GenericJoystick.JOYSTICK_TYP
 import static com.project.dev.joystick.name.generic.GenericJoystick.JOYSTICK_TYPE_SERVER;
 
 /**
- * TODO: Definición de {@code JavaJoystickViewSetter}.
+ * TODO: Description of {@code JavaJoystickViewSetter}.
  *
  * @author Dyson Parra
  * @since 11
@@ -37,7 +37,7 @@ import static com.project.dev.joystick.name.generic.GenericJoystick.JOYSTICK_TYP
 public class JavaJoystickViewSetter extends JoystickViewSetter<JFrame> {
 
     /**
-     * FIXME: Definición de {@code JavaJoystickViewSetter}.
+     * FIXME: Description of {@code JavaJoystickViewSetter}.
      *
      * @param view es la vista donde se agregará el joystick.
      */
@@ -46,7 +46,7 @@ public class JavaJoystickViewSetter extends JoystickViewSetter<JFrame> {
     }
 
     /**
-     * FIXME: Definición de {@code addJoystickToView}. Asigna un joystick con su respectivo
+     * FIXME: Description of {@code addJoystickToView}. Asigna un joystick con su respectivo
      * asignador gráfico a la vista.
      *
      * @param joystick      es el joystick.

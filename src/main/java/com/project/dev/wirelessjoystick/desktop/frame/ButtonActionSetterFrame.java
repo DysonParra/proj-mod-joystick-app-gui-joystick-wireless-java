@@ -31,7 +31,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
 /**
- * TODO: Definición de {@code ButtonActionSetterFrame}.
+ * TODO: Description of {@code ButtonActionSetterFrame}.
  *
  * @author Dyson Parra
  * @since 11
@@ -57,7 +57,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     private GenericButton button;
 
     /**
-     * TODO: Definición de {@code getButton}.
+     * TODO: Description of {@code getButton}.
      *
      * @return
      */
@@ -66,7 +66,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     }
 
     /**
-     * TODO: Definición de {@code setButton}.
+     * TODO: Description of {@code setButton}.
      *
      * @param button
      */
@@ -95,7 +95,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     };
 
     /**
-     * TODO: Definición de {@code ButtonActionSetterFrame}.
+     * TODO: Description of {@code ButtonActionSetterFrame}.
      *
      */
     public ButtonActionSetterFrame() {
@@ -109,7 +109,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     }
 
     /**
-     * FIXME: Definición de {@code startFrame}. Inicializa el frame con la información obtenida del
+     * FIXME: Description of {@code startFrame}. Inicializa el frame con la información obtenida del
      * frame anterior.
      */
     public void startFrame() {
@@ -182,7 +182,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     }// </editor-fold>//GEN-END:initComponents
 
     /**
-     * TODO: Definición de {@code btnAssignActionActionPerformed}.
+     * TODO: Description of {@code btnAssignActionActionPerformed}.
      *
      * @param evt
      */
@@ -274,7 +274,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     }//GEN-LAST:event_btnAssignActionActionPerformed
 
     /**
-     * TODO: Definición de {@code spnButtonActionActionPerformed}.
+     * TODO: Description of {@code spnButtonActionActionPerformed}.
      *
      * @param evt
      */
@@ -312,7 +312,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     // End of variables declaration//GEN-END:variables
 
     /**
-     * TODO: Definición de {@code keyTyped}.
+     * TODO: Description of {@code keyTyped}.
      *
      * @param e
      */
@@ -322,7 +322,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     }
 
     /**
-     * TODO: Definición de {@code keyReleased}.
+     * TODO: Description of {@code keyReleased}.
      *
      * @param e
      */
@@ -332,7 +332,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     }
 
     /**
-     * TODO: Definición de {@code keyPressed}.
+     * TODO: Description of {@code keyPressed}.
      *
      * @param e
      */
@@ -541,7 +541,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     }
 
     /**
-     * FIXME: Definición de {@code addButtonActionKeyEvent}. Agrega un evento de teclado en código
+     * FIXME: Description of {@code addButtonActionKeyEvent}. Agrega un evento de teclado en código
      * nativo a un botón
      *
      * @param button         es el botón
@@ -585,7 +585,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     }
 
     /**
-     * FIXME: Definición de {@code addButtonCommandEvent}. Agrega un evento de ejecución de un
+     * FIXME: Description of {@code addButtonCommandEvent}. Agrega un evento de ejecución de un
      * comando a un botón.
      *
      * @param button  es el botón
@@ -625,7 +625,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     }
 
     /**
-     * FIXME: Definición de {@code addButtonActionMouseClicEvent}. Agrega un evento de clic en
+     * FIXME: Description of {@code addButtonActionMouseClicEvent}. Agrega un evento de clic en
      * código nativo a un botón
      *
      * @param button             es el botón
@@ -669,7 +669,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     }
 
     /**
-     * FIXME: Definición de {@code printLinkError}. Imprime un error si no es posible asignar el
+     * FIXME: Description of {@code printLinkError}. Imprime un error si no es posible asignar el
      * avente algún botón.
      */
     private void printLinkError() {
@@ -680,7 +680,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     }
 
     /**
-     * FIXME: Definición de {@code getButtonMouseMoveEventPixels}. Obtiene la cantidad de píxeles
+     * FIXME: Description of {@code getButtonMouseMoveEventPixels}. Obtiene la cantidad de píxeles
      * para un evento de mover mouse.
      *
      * @param axis es el eje de coordenas dond se moverá el mouse (x ó y).
@@ -724,7 +724,7 @@ public class ButtonActionSetterFrame extends JFrame implements KeyListener {
     }
 
     /**
-     * FIXME: Definición de {@code addButtonActionMouseMoveEvent}. Agrega un evento de mover mouse
+     * FIXME: Description of {@code addButtonActionMouseMoveEvent}. Agrega un evento de mover mouse
      * en código nativo a un botón
      *
      * @param button             es el botón

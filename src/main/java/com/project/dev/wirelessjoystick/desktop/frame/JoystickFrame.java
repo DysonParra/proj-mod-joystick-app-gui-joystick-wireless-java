@@ -44,7 +44,7 @@ import static com.project.dev.joystick.name.generic.GenericJoystick.JOYSTICK_TYP
 import static com.project.dev.joystick.name.generic.GenericJoystick.JOYSTICK_TYPE_SERVER;
 
 /**
- * TODO: Definición de {@code JoystickFrame}.
+ * TODO: Description of {@code JoystickFrame}.
  *
  * @author Dyson Parra
  * @since 11
@@ -66,7 +66,7 @@ public class JoystickFrame extends javax.swing.JFrame {
     private final JFrame frame = this;                                  // Referencia a la ventana.
 
     /**
-     * TODO: Definición de {@code getJoystickType}.
+     * TODO: Description of {@code getJoystickType}.
      *
      * @return
      */
@@ -75,7 +75,7 @@ public class JoystickFrame extends javax.swing.JFrame {
     }
 
     /**
-     * TODO: Definición de {@code setJoystickType}.
+     * TODO: Description of {@code setJoystickType}.
      *
      * @param joystickType
      */
@@ -84,7 +84,7 @@ public class JoystickFrame extends javax.swing.JFrame {
     }
 
     /**
-     * TODO: Definición de {@code getJoystickName}.
+     * TODO: Description of {@code getJoystickName}.
      *
      * @return
      */
@@ -93,7 +93,7 @@ public class JoystickFrame extends javax.swing.JFrame {
     }
 
     /**
-     * TODO: Definición de {@code setJoystickName}.
+     * TODO: Description of {@code setJoystickName}.
      *
      * @param joystickName
      */
@@ -102,7 +102,7 @@ public class JoystickFrame extends javax.swing.JFrame {
     }
 
     /**
-     * TODO: Definición de {@code getJoystickForm}.
+     * TODO: Description of {@code getJoystickForm}.
      *
      * @return
      */
@@ -111,7 +111,7 @@ public class JoystickFrame extends javax.swing.JFrame {
     }
 
     /**
-     * TODO: Definición de {@code setJoystickForm}.
+     * TODO: Description of {@code setJoystickForm}.
      *
      * @param joystickForm
      */
@@ -120,7 +120,7 @@ public class JoystickFrame extends javax.swing.JFrame {
     }
 
     /**
-     * TODO: Definición de {@code getIpAddress}.
+     * TODO: Description of {@code getIpAddress}.
      *
      * @return
      */
@@ -129,7 +129,7 @@ public class JoystickFrame extends javax.swing.JFrame {
     }
 
     /**
-     * TODO: Definición de {@code setIpAddress}.
+     * TODO: Description of {@code setIpAddress}.
      *
      * @param ipAddress
      */
@@ -138,7 +138,7 @@ public class JoystickFrame extends javax.swing.JFrame {
     }
 
     /**
-     * TODO: Definición de {@code getServerPort}.
+     * TODO: Description of {@code getServerPort}.
      *
      * @return
      */
@@ -147,7 +147,7 @@ public class JoystickFrame extends javax.swing.JFrame {
     }
 
     /**
-     * TODO: Definición de {@code setServerPort}.
+     * TODO: Description of {@code setServerPort}.
      *
      * @param serverPort
      */
@@ -156,7 +156,7 @@ public class JoystickFrame extends javax.swing.JFrame {
     }
 
     /**
-     * TODO: Definición de {@code JoystickFrame}.
+     * TODO: Description of {@code JoystickFrame}.
      *
      */
     public JoystickFrame() {
@@ -188,7 +188,7 @@ public class JoystickFrame extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     /**
-     * FIXME: Definición de {@code startFrame}. Inicializa el frame con la información obtenida del
+     * FIXME: Description of {@code startFrame}. Inicializa el frame con la información obtenida del
      * frame anterior.
      */
     public void startFrame() {
