@@ -22,7 +22,7 @@ import java.io.InputStream;
  * TODO: Definición de {@code VirtualEvent}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class VirtualEvent {
 

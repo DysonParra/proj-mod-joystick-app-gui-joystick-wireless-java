@@ -32,7 +32,7 @@ import static com.project.dev.wirelessjoystick.desktop.frame.JoystickFrame.JOYST
  * TODO: Definición de {@code WirelessJoystickFrame}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class WirelessJoystickFrame extends JFrame {
 

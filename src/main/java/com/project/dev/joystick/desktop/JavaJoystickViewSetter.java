@@ -32,7 +32,7 @@ import static com.project.dev.joystick.name.generic.GenericJoystick.JOYSTICK_TYP
  * TODO: Definición de {@code JavaJoystickViewSetter}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class JavaJoystickViewSetter extends JoystickViewSetter<JFrame> {
 

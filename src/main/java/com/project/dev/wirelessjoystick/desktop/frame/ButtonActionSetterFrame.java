@@ -34,7 +34,7 @@ import javax.swing.JTextField;
  * TODO: Definición de {@code ButtonActionSetterFrame}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class ButtonActionSetterFrame extends JFrame implements KeyListener {
 

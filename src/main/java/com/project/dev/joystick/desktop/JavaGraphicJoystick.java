@@ -33,7 +33,7 @@ import javax.swing.JLayeredPane;
  * TODO: Definición de {@code JavaGraphicJoystick}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick, KeyListener, ActionListener {
 

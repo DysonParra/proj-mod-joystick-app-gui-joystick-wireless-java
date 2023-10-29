@@ -47,7 +47,7 @@ import static com.project.dev.joystick.name.generic.GenericJoystick.JOYSTICK_TYP
  * TODO: Definición de {@code JoystickFrame}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class JoystickFrame extends javax.swing.JFrame {
 

@@ -21,7 +21,7 @@ import com.project.dev.joystick.graphic.GenericImage;
  * TODO: Definición de {@code JavaGenericImageFactory}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class JavaGenericImageFactory extends GenericImageAbstractFactory {
 
