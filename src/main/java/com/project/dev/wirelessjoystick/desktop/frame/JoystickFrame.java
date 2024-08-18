@@ -246,7 +246,7 @@ public class JoystickFrame extends javax.swing.JFrame {
                         for (final GenericButton button : server.getButtons()) {
                             JLabel buttonView = (JLabel) button.getOnGraphicListener().getView();
                             buttonView.addMouseListener(new MouseAdapter() {
-                                final GenericButton actualButton = button;
+                                final GenericButton currentButton = button;
 
                                 @Override
                                 public void mousePressed(MouseEvent ev) {

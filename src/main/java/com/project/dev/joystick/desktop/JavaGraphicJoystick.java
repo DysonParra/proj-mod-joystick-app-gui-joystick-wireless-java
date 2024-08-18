@@ -75,16 +75,16 @@ public class JavaGraphicJoystick extends JLayeredPane implements GraphicJoystick
 
             if (!joystick.getType().equals(GenericJoystick.JOYSTICK_TYPE_SERVER)) {                          // Si el joystick no es un servidor.
                 buttonComponet.addMouseListener(new MouseAdapter() {                                        // Agrega evento de mouse al componente actual.
-                    final GenericButton actualButton = button;
+                    final GenericButton currentButton = button;
 
                     @Override
                     public void mousePressed(MouseEvent ev) {
-                        actualButton.touchButton();
+                        currentButton.touchButton();
                     }
 
                     @Override
                     public void mouseReleased(MouseEvent ev) {
-                        actualButton.unTouchButton();
+                        currentButton.unTouchButton();
                     }
                 });
             }
