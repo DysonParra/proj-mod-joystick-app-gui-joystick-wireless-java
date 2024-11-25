@@ -42,6 +42,7 @@ public class VirtualEvent {
     /**
      * TODO: Description of {@code isLinkedDll}.
      *
+     * @return 
      */
     public static boolean isLinkedDll() {
         return linkedDll;
@@ -50,6 +51,7 @@ public class VirtualEvent {
     /**
      * TODO: Description of {@code getLinkErrorMessage}.
      *
+     * @return 
      */
     public static String getLinkErrorMessage() {
         return linkErrorMessage;
